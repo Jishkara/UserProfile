@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UserProfile</string>
+    <string name="log_in">Log In</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="please_fill_all_fields">Please fill all fields!</string>
+    <string name="name">Name:</string>
+    <string name="last_name">Last name</string>
+    <string name="favorite_color">Favorite Color</string>
+    <string name="favorite_number">Favorite Number</string>
+    <string name="age">Age</string>
+</resources>
